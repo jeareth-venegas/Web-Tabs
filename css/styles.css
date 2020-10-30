@@ -19,15 +19,13 @@ body{
 
 
 .title {
+    padding-top: 71px;
     width: 1024px;
-    height: 172px;
     background-color: #E16C03;
     font-size: 18px;
-    line-height: 20px;
     color: #ffffff;
-    padding-top: 71px;
-}
 
+}
 
 .logo{
     position: relative;
@@ -94,10 +92,9 @@ p{
 
 .footer{
     background-color: #E16C03;
-    height: 172px;
+
     margin: 0 auto;
     width: 1024px;
-    margin-top: 40px;
 }
 
 .footer{
